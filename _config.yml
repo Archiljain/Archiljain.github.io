@@ -4,7 +4,8 @@ description: >-
   Open source contributions, GSoC-style progress logs, and dev writeups.
 baseurl: ""
 url: "https://Archiljain.github.io"
-theme: minima
+theme: remote_theme: "mmistakes/minimal-mistakes@latest"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
