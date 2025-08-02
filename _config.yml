@@ -1,0 +1,10 @@
+title: "Archil Jain's Contributions Blog"
+email: archil@example.com
+description: >- 
+  Open source contributions, GSoC-style progress logs, and dev writeups.
+baseurl: ""
+url: "https://Archiljain.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

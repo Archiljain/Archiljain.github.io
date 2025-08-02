@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  color: #333;
+  padding: 1rem;
+  line-height: 1.6;
+}
+
+header nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+header nav a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+  background: #fff;
+  padding: 2rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
